@@ -1,8 +1,8 @@
 <html><head>
     <meta charset="utf-8">
-    <title>cactoos.org</title>
-    <meta name="description" content="Object-Oriented Java Primitives">
-    <meta name="keywords" content="object-oriented programming, OOP, Java, elegant objects">
+    <title>flipslack</title>
+    <meta name="description" content="FlipKart ChatBot">
+    <meta name="keywords" content="FlipKart ChatBot, ChatBot, Python, Flipchat">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="https://cdn.dribbble.com/users/123162/screenshots/1261058/logo_1x.png">
     <style>
